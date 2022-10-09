@@ -5,6 +5,7 @@ data*
 .vscode
 .idea
 *.pickle
+*.json
 .netrc
 log.txt
 accounts/*
