@@ -1,0 +1,40 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+anytree = "*"
+aria2p = "*"
+asyncio = "*"
+beautifulsoup4 = "*"
+bencoding = "*"
+cfscrape = "*"
+dnspython = "*"
+feedparser = "*"
+flask = "*"
+google-api-python-client = "*"
+google-auth-httplib2 = "*"
+google-auth-oauthlib = "*"
+gunicorn = "*"
+lk21 = "*"
+lxml = "*"
+pillow = "*"
+psutil = "*"
+pybase64 = "*"
+pymongo = "*"
+pyrogram = "*"
+python-dotenv = "*"
+python-magic = "*"
+python-telegram-bot = "*"
+qbittorrent-api = "*"
+requests = "*"
+tenacity = "*"
+tgcrypto = "*"
+xattr = "*"
+yt-dlp = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
